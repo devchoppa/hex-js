@@ -1,1 +1,3 @@
-console.log('Hello WORLD!')
+import _ from "lodash";
+
+console.log(_.last(['one','two']))
